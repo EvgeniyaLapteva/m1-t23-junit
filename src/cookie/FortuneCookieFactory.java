@@ -3,7 +3,7 @@ package cookie;
 import java.util.List;
 import java.util.Random;
 
-public class FortuneCookieFactory {
+public class  FortuneCookieFactory {
 
         private final FortuneConfig fortuneConfig;
         private int cookiesBaked = 0;
